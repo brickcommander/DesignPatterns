@@ -1,0 +1,4 @@
+Command:
+brickcommander@Pawans-MacBook-Pro designpatterns % 
+javac ObserverDesignPattern/Main.java && java ObserverDesignPattern/Main
+

@@ -1,0 +1,8 @@
+Hello,
+
+You can have multiple decorators with a base.
+You can't have multiple bases.
+
+Command
+brickcommander@Pawans-MacBook-Pro designpatterns % 
+javac DecoratorDesignPattern/Main.java && java DecoratorDesignPattern/Main
